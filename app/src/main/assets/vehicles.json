@@ -1,0 +1,22 @@
+{
+    "Vehicles": [
+        {
+              "id": 14,
+              "name": "Lisbet the Corolla",
+              "description": "A 5 door silver automatic Toyota Corolla. This car seats 5 people. <br><br>\r\n<blink>\r\n<b><FONT COLOR=\"red\">IMPORTANT!<br><br>\r\nThe fuel card in this car only works for <FONT COLOR=\"blue\">E10 or Unleaded 91 petrol. <FONT COLOR=\"red\">Please only use <FONT COLOR=\"blue\">E10 or Unleaded 91 <FONT COLOR=\"red\">when refuelling.",
+              "fuelType": "E10 or Unleaded 91 petrol",
+              "capacity": 4,
+              "numberPlate": "DJ16FR",
+              "image": "https://www.goget.com.au/bookings/media/content/images/vehicles/corolla_ascent_hatch-2017-silver.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Yara the RAV4",
+            "description": "This Toyota RAV4 is handy for carrying big loads around the city, and is a comfortable ride for long trips.",
+            "fuelType": "E10 or Unleaded 91",
+            "capacity": 5,
+            "numberPlate": "1GNCO1",
+            "image": "https://app.goget.com.au/bookings/media/content/images/vehicles/rav4-2017-grey.jpg"
+        }
+    ]
+}

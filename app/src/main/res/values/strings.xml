@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Bookings</string>
+    <string name="title_activity_booking_details">Booking Details</string>
+</resources>

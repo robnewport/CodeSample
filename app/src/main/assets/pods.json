@@ -1,0 +1,19 @@
+
+{
+    "pods": [
+                {
+                  "id": 6,
+                  "name": "Somewhere - Example Company (Car Park 1)",
+                  "description": "Located in CP1 of Example Company. The car park is accessed via Thing Road, near the intersection with Thingsbury Drive. Please park in either of the two dedicated bays, if both of these bays are occupied please park in any other bay with white line marking and call customer service number (1300 xxx xxx) immediately so that we can inform the university and have the offending vehicle moved.",
+                  "lat": -33.881234,
+                  "lon": 151.198941
+                },
+                {
+                  "id": 7,
+                  "name": "Somewhere - Example Company (Car Park 2)",
+                  "description": "Located in CP2 of Example Company. The car park is accessed via Thing Road, near the intersection with Thingsbury Drive. Please park in either of the two dedicated bays, if both of these bays are occupied please park in any other bay with white line marking and call customer service number (1300 xxx xxx) immediately so that we can inform the university and have the offending vehicle moved.",
+                  "lat": -37.9722326,
+                  "lon": 144.7722775
+                }
+            ]
+}

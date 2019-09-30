@@ -1,0 +1,21 @@
+{
+    "vehicleBookings": [{
+        "id": 1,
+        "startTime": "2017-12-13T00:30:00+11",
+        "endTime":   "2017-12-13T13:30:00+11",
+        "vehicleId": 14,
+        "podId": 6,
+        "estimatedCost": 194.9,
+        "fuelPin": "12345678",
+        "freeKmsTotal": 300
+    }, {
+        "id": 2,
+        "startTime": "2017-12-13T09:00:00+11",
+        "endTime":   "2017-12-13T16:00:00+11",
+        "vehicleId": 15,
+        "podId": 7,
+        "estimatedCost": 123.9,
+        "fuelPin": "12345678",
+        "freeKmsTotal": 150
+    }]
+}
